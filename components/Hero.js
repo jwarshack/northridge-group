@@ -9,7 +9,7 @@ export default function Hero() {
         </video>
 
         <div className={styles.innerContainer}>
-            <h2>Come build with us</h2>
+            <h2>Lorem ipsum dolor sit amet</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in. </p>
             <button className={styles.button}>Gallery</button>
         </div>

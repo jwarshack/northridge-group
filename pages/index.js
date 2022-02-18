@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Hero/>
-      <Contact />
+      {/* <Contact /> */}
 
 
       
