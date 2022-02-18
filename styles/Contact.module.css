@@ -1,0 +1,10 @@
+.container {
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+
+    background: #004AAD;
+    color: #fff;
+    
+
+}
